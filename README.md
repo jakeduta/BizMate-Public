@@ -157,7 +157,3 @@ The installer is configured with:
 # Collaborators 
 
 ### [Jake Duta](https://github.com/jakeduta), [Nathan Constancio](https://github.com/NathanConstancio092), and [Chris Hawthorne](https://github.com/ChrisHaw24).
-
-# Supervisor
-
-### This private project is supervised by [Dr. Ahmad Al-Shami](https://github.com/alshami10), who has repository access solely for academic guidance, review, and assessment purposes.
